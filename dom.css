@@ -1,0 +1,67 @@
+h1 {
+    text-align: center;
+    margin: 5%;
+    color: blue;
+
+}
+
+
+ .pull {
+    height: 220px;
+ }   
+  .pull2 {
+    height: 220px;
+ } 
+  .pull3 {
+    height: 220px;
+ } 
+ .text {
+    text-align: initial;
+    margin-top: 10px;
+}
+#bloc1
+{
+    display: flex;
+    margin-left: 70px;
+    
+}
+.row {
+    padding: 150px;
+}
+#bloc1 p
+{
+    margin-left: 120px;
+
+}
+.prix {
+    margin-left: 150px;
+}
+.button {
+    margin-left: 200px;
+}
+.quantite
+{
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    border: none;
+    margin-left: 20px;
+}
+.total
+{
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;   
+}
+.totalPrix
+{
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;   
+}
+i
+{
+    color: red;
+}
